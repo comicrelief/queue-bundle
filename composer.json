@@ -1,0 +1,18 @@
+{
+    "name": "comicrelief/queue-bundle",
+    "type": "symfony-bundle",
+    "description": "Comic Relief QueueBundle",
+    "keywords": [],
+    "homepage": "http://comicrelief.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "comicrelief/frost-queue": "^1.0",
+        "symfony/dependency-injection": "~2.7|~3.0",
+        "symfony/http-kernel": "~2.7|~3.0",
+        "symfony/config": "~2.7|~3.0"
+    },
+    "autoload": {
+        "psr-4": { "ComicRelief\\QueueBundle\\": "" }
+    }
+}

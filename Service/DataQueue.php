@@ -1,7 +1,7 @@
 <?php
 namespace ComicRelief\QueueBundle\Service;
 
-use Frost\Queue;
+use ComicRelief\Queue;
 
 /**
  * Class DataQueue

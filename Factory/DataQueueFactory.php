@@ -2,8 +2,8 @@
 namespace ComicRelief\QueueBundle\Factory;
 
 use ComicRelief\QueueBundle\Service\DataQueue;
-use Frost\Queue\Config\QueueConfig;
-use Frost\Queue\Queue;
+use ComicRelief\Queue\Config\QueueConfig;
+use ComicRelief\Queue\Queue;
 
 /**
  * Class DataQueueFactory
